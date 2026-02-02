@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "首页",
+    "projects": "项目",
+    "resume": "简历",
+    "contact": "联系"
+  },
+  "hero": {
+    "eyebrow": "设计与构建",
+    "ctaProjects": "查看项目",
+    "ctaContact": "联系我",
+    "facts": [
+      { "label": "地点", "value": "滑铁卢 / 多伦多" },
+      { "label": "方向", "value": "质量工程" },
+      { "label": "当前", "value": "滑铁卢大学 MEng" }
+    ]
+  },
+  "highlights": {
+    "title": "亮点",
+    "subtitle": "以质量工程、性能信号与 AI 探索为核心的可靠优势。",
+    "items": {
+      "reliability": {
+        "title": "可靠性与自动化测试",
+        "description": "使用 Playwright 与 Jest 构建 E2E/API 测试，优化 Mock 与设计降低不稳定性。"
+      },
+      "performance": {
+        "title": "性能与质量信号",
+        "description": "用 k6 做负载测试，制定基线与阈值，提前识别回归。"
+      },
+      "cicd": {
+        "title": "CI/CD 质量门禁",
+        "description": "维护 TeamCity 流水线，通过更智能的检查与报告提升信噪比。"
+      },
+      "ai": {
+        "title": "AI 应用成长",
+        "description": "探索 LLM/AI 工程化流程：生成测试、调试辅助与自动化方案。"
+      }
+    }
+  },
+  "projects": {
+    "title": "项目",
+    "subtitle": "涵盖产品、品牌与交互的精选作品。",
+    "filterAll": "全部",
+    "github": "GitHub",
+    "demo": "在线演示"
+  },
+  "resume": {
+    "title": "简历",
+    "subtitle": "以时间线呈现经历，并整理核心能力标签。",
+    "education": "教育背景",
+    "experience": "工作经历",
+    "skills": "技能",
+    "download": "下载 PDF"
+  },
+  "contact": {
+    "title": "联系",
+    "subtitle": "邮件是最直接的联系方式。",
+    "ctaEmail": "发送邮件",
+    "ctaLinkedIn": "LinkedIn 联系",
+    "reachOut": "联系我",
+    "links": "链接",
+    "copyEmail": "复制邮箱",
+    "copied": "已复制",
+    "locationLabel": "位置",
+    "emailLabel": "邮箱",
+    "phoneLabel": "电话",
+    "githubLabel": "GitHub",
+    "linkedinLabel": "LinkedIn"
+  },
+  "footer": {
+    "copyright": "© {year} Runxin Zhuang. 保留所有权利。"
+  },
+  "meta": {
+    "home": {
+      "title": "Runxin Zhuang — 作品集",
+      "description": "软件测试与工程方向的双语作品集。"
+    },
+    "projects": {
+      "title": "项目 — Runxin Zhuang",
+      "description": "测试、Web 与 ML 方向的精选项目。"
+    },
+    "resume": {
+      "title": "简历 — Runxin Zhuang",
+      "description": "经历、教育与核心技能概览。"
+    },
+    "contact": {
+      "title": "联系 — Runxin Zhuang",
+      "description": "测试与软件工程相关合作，欢迎联系。"
+    }
+  }
+}

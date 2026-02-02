@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "resume": "Resume",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Design & Build",
+    "ctaProjects": "View Projects",
+    "ctaContact": "Contact",
+    "facts": [
+      { "label": "Location", "value": "Waterloo / Toronto" },
+      { "label": "Focus", "value": "Quality Engineering" },
+      { "label": "Current", "value": "ECE MEng @ Waterloo" }
+    ]
+  },
+  "highlights": {
+    "title": "Highlights",
+    "subtitle": "Evidence-backed strengths across quality engineering, performance, and AI exploration.",
+    "items": {
+      "reliability": {
+        "title": "Reliability & Test Automation",
+        "description": "Built E2E/API suites with Playwright + Jest; improved stability by reducing flaky tests via better mocking and test design."
+      },
+      "performance": {
+        "title": "Performance & Quality Signals",
+        "description": "Load testing with k6; defined baselines and thresholds to catch regressions early."
+      },
+      "cicd": {
+        "title": "CI/CD Quality Gates",
+        "description": "Maintained TeamCity pipelines; strengthened signal-to-noise with smarter checks, reporting, and triage."
+      },
+      "ai": {
+        "title": "Applied AI Growth",
+        "description": "Exploring LLM/AI workflows for engineering—prototype test generation, debugging assistance, and automation ideas."
+      }
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Selected work across product, branding, and interaction.",
+    "filterAll": "All",
+    "github": "GitHub",
+    "demo": "Live Demo"
+  },
+  "resume": {
+    "title": "Resume",
+    "subtitle": "Experience and education timeline with a clear skill map.",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "download": "Download PDF"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Email is the fastest way to reach me.",
+    "ctaEmail": "Send Email",
+    "ctaLinkedIn": "Message on LinkedIn",
+    "reachOut": "Reach out",
+    "links": "Links",
+    "copyEmail": "Copy email",
+    "copied": "Copied",
+    "locationLabel": "Location",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "githubLabel": "GitHub",
+    "linkedinLabel": "LinkedIn"
+  },
+  "footer": {
+    "copyright": "© {year} Runxin Zhuang. All rights reserved."
+  },
+  "meta": {
+    "home": {
+      "title": "Runxin Zhuang — Portfolio",
+      "description": "Bilingual portfolio for software testing and engineering work."
+    },
+    "projects": {
+      "title": "Projects — Runxin Zhuang",
+      "description": "Selected projects across testing, web, and ML."
+    },
+    "resume": {
+      "title": "Resume — Runxin Zhuang",
+      "description": "Experience, education, and core skills."
+    },
+    "contact": {
+      "title": "Contact — Runxin Zhuang",
+      "description": "Get in touch for testing and software engineering collaborations."
+    }
+  }
+}
